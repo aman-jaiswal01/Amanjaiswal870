@@ -1,7 +1,7 @@
-## Hi, I'm Aman Jaiswal
+## Hi, I'm Aman Jaiswal 👋
 
-- 👋 Hi, I’m @Amanjaiswal870.
-- 🌱 I’m currently learning web development and android app development.
+- I am a software engineer who is passionate about making webistes and mobile application. Some technologies that i enjoy working include ReactJS, MYSql, etc. 
+- I’m currently learning web development and android app development.
 - You can reach me through [email](https://www.internshala.com), [linkedIn](https://www.internshala.com)
 
 <!---
