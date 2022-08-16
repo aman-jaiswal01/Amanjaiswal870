@@ -4,7 +4,7 @@
 
 **I am a software engineer who is passionate about making small open-source webistes and mobile application. There are various technologies that i usually work with but some technologies that i enjoy working include ReactJS, MYSql, etc. I recently achieved 1st rank in round-1 in BitWars 2.0 (organized by my university). I’m currently learning web development and android app development using online platforms like Internshala. I am open to collaborations on any projects related to these domains.**
 
-## Find me on
+## Find me on 🌍
 
 - **Learning Web Development and Android App Development at [Internshala](https://www.internshala.com)**
 - **You can reach me through [email](https://www.internshala.com) and [linkedIn](https://www.internshala.com)**
