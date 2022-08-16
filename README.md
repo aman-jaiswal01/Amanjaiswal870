@@ -3,8 +3,8 @@
 - 👋 Hi, I’m @Amanjaiswal870.
 - 🌱 I’m currently learning web development and android app development.
 - You can reach me through 
-- ! [Email] (https://www.internshala.com), 
-- ! [LinkedIn] (https://www.internshala.com)
+- ! [Email](https://www.internshala.com), 
+- ! [LinkedIn](https://www.internshala.com)
 
 <!---
 Amanjaiswal870/Amanjaiswal870 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
